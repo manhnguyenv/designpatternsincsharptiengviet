@@ -1,6 +1,7 @@
 # Design Patterns in C\# - Tiếng Việt
 
-Gitbook: [https://minhhungit.gitbook.io/designpatternsincsharptiengviet](https://minhhungit.gitbook.io/designpatternsincsharptiengviet)
+**Github**: [https://github.com/minhhungit/designpatternsincsharptiengviet](https://github.com/minhhungit/designpatternsincsharptiengviet)  
+**Gitbook**: [https://minhhungit.gitbook.io/designpatternsincsharptiengviet](https://minhhungit.gitbook.io/designpatternsincsharptiengviet)
 
 Project này là bản dịch các Design Patterns \(mẫu thiết kế\) dựa trên khung sườn của cuốn sách [**Design Patterns in C\#**](https://www.apress.com/gp/book/9781484236390) của tác giả **Vaskaran Sarcar**, với mong muốn giúp các bạn developer .NET Việt Nam \(hoặc thậm chị ngôn ngữ khác, nước khác ^^ \) tiếp cận dễ dàng hơn các mẫu thiết kế.
 
