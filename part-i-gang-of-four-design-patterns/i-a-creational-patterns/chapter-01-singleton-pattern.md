@@ -26,14 +26,14 @@ Bạn có một chương trình, ví dụ notepad, bạn muốn người dùng c
 
 ## Minh họa
 
-> Sau đây là một số đặc điểm chính khi triển khai:
->
-> * Constructor là private trong ví dụ này, do đó bạn sẽ không thể khởi tạo instance  như cách thông thường \(bằng từ khóa `new`\)
-> *  Trước khi bạn thử tạo một instance của class, bạn sẽ kiểm tra xem liệu đã có sẵn instance nào chưa. Nếu bạn chưa có instance nào, bạn sẽ tạo mới một instance, còn không thì sử dụng cái đã có sẵn.
+Sau đây là một số đặc điểm chính khi triển khai:
 
-> ### Class Diagram
->
-> Hình 1.1 Là class diagram minh họa cho mẫu Singleton
+* Constructor là private trong ví dụ này, do đó bạn sẽ không thể khởi tạo instance  như cách thông thường \(bằng từ khóa new\)
+* Trước khi bạn thử tạo một instance của class, bạn sẽ kiểm tra xem liệu đã có sẵn instance nào chưa. Nếu bạn chưa có instance nào, bạn sẽ tạo mới một instance, còn không thì sử dụng cái đã có sẵn.
+
+## Class Diagram 
+
+Hình 1.1 Là class diagram minh họa cho mẫu Singleton
 
 ![H&#xEC;nh 1-1. Class diagram](../../.gitbook/assets/image.png)
 
