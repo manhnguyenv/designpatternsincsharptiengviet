@@ -8,6 +8,8 @@
 
 Một class cụ thể chỉ nên có một instance. Bạn có thể sử dụng instance này bất cứ khi nào bạn cần làm việc với class đó và do đó sẽ tránh việc tạo thêm các đối tượng không cần thiết.
 
+ **Giải thích:** Mẫu Singleton được sử dụng khi chúng ta muốn tạo **một và chỉ một** instance của một class xuyên suốt quá trình chạy của ứng dụng.
+
 ## Ví dụ trong đời sống thực
 
 Giả sử bạn là thành viên trong một team thể thao và team bạn đang tham gia một giải đấu. Khi team của bạn đối đầu với team khác, theo luật, người đội trưởng của hai team sẽ tung một đồng xu. Nếu team của bạn không có đội trưởng, trước tiên team bạn cần phải bầu một ai đó làm đội trưởng. Team của bạn phải có một và chỉ một đội trưởng.
@@ -15,6 +17,10 @@ Giả sử bạn là thành viên trong một team thể thao và team bạn đa
 ## Ví dụ chuyên ngành
 
 Trong một số hệ thống phần mềm, bạn có thể sẽ quyết định duy trì chỉ một file system \(hệ thống quản lý tập tin\) mà bạn có thể dùng nó để quản lý một cách tập trung các resources \(tài nguyên\).
+
+## Ví dụ từ người dịch
+
+Bạn có một chương trình, ví dụ notepad, bạn muốn người dùng chỉ có thể mở **duy nhất** 1 cửa sổ dù họ cố mở nhiều cửa sổ như thế nào đi nữa, thì hãy xài pattern này. Nó giúp bạn không cho phép người dùng mở cửa sổ thứ 2.
 
 ## Minh họa
 
