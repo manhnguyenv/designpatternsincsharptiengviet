@@ -2,11 +2,13 @@
 
 Gitbook: [https://minhhungit.gitbook.io/designpatternsincsharptiengviet](https://minhhungit.gitbook.io/designpatternsincsharptiengviet)
 
-Project này là bản dịch của cuốn sách **Design Patterns in C\#** của tác giả **Vaskaran Sarcar**, với mong muốn giúp các bạn developer .NET Việt Nam tiếp cận dễ dàng hơn với design pattern.
+Project này là bản dịch các Design Patterns \(mẫu thiết kế\) dựa trên khung sườn của cuốn sách [**Design Patterns in C\#**](https://www.apress.com/gp/book/9781484236390) của tác giả **Vaskaran Sarcar**, với mong muốn giúp các bạn developer .NET Việt Nam \(hoặc thậm chị ngôn ngữ khác, nước khác ^^ \) tiếp cận dễ dàng hơn các mẫu thiết kế.
+
+> **Lưu ý:** việc dịch dựa trên sách **Design Patterns in C\#** này không có nghĩa nội dung được dịch hoàn toàn 100%, sách cũng chỉ được sử dụng với mục đích tham khảo, người dịch có thể thêm thắt, lượt bỏ, đưa thêm ví dụ, viện dẫn các nguồn, bài viết khác nhau nhằm mục đích giải thích cho người đọc hiểu được lý do tại sao mẫu thiết kế được tạo ra và làm thế nào để sử nó trong trường hợp cụ thể nào.
 
 Mọi đóng góp dù lớn hay nhỏ cũng đều được hoan nghênh.
 
-Để tham gia đóng góp bản dịch cho cuốn sách này, các bạn chỉ cần làm theo các bước sau:
+Để tham gia đóng góp bản dịch cho các mẫu thiết kế, các bạn chỉ cần làm theo các bước sau:
 
 * Đăng ký chương mà bán muốn dịch [tại đây](https://github.com/minhhungit/designpatternsincsharptiengviet/issues/1) nhằm tránh trùng lặp \(nhiều người cùng dịch\)
 * Fork repo này
