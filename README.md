@@ -1,7 +1,3 @@
----
-description: Bản dịch Tiếng Việt
----
-
 ## Design Patterns in C\#
 
 Gitbook: https://minhhungit.gitbook.io/designpatternsincsharptiengviet
