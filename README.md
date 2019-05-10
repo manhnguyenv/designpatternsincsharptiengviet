@@ -10,13 +10,13 @@ Mọi đóng góp dù lớn hay nhỏ cũng đều được hoan nghênh.
 
 * Đăng ký chương mà bán muốn dịch [tại đây](https://github.com/minhhungit/designpatternsincsharptiengviet/issues/1) nhằm tránh trùng lặp \(nhiều người cùng dịch\)
 * Fork repo này
-* Update file .md create và pull request để merge
+* Update  file .md create và pull request để merge
 
 ## Quy ước đóng góp
 
-Vì project này chỉ mới được bắt đầu, chúng ta sẽ tập trung vào các file/chương chưa dịch thay vì chỉnh sửa các file/chương đã dịch xong \(tuy vậy, nếu có sai sót gì nghiêm trọng ở các file đã dịch, rất hoan nghênh sự đóng góp của các bạn\). Để bắt đầu dịch một file/chương mới, vui lòng thực hiện theo quy ước sau:
+Vì project này chỉ mới được bắt đầu, chúng ta sẽ tập trung vào các chương chưa dịch thay vì chỉnh sửa các /chương đã dịch xong \(tuy vậy, nếu có sai sót gì nghiêm trọng ở các chương đã dịch, rất hoan nghênh sự đóng góp của các bạn\). Để bắt đầu dịch một chương mới, vui lòng thực hiện theo quy ước sau:
 
-* Chỉ dịch một file/chương cho mỗi PR \(pull request\)
+* Chỉ dịch một chương cho mỗi PR \(pull request\)
 * Trước khi bắt tay vào dịch một chương, hãy kiểm tra xem chương đó có ai đã hoặc đang dịch hay không, xem [tại đây](https://github.com/minhhungit/designpatternsincsharptiengviet/issues/1).
 * Tạo một branch mới từ master với tên là chương bạn muốn dịch, ví dụ `chuong-02-abc-xyz`
 * Tạo một thay đổi nhỏ để submit PR vào master, với tên PR là \[WIP\] Chương 02: ABC XYZ \(WIP nghĩa là Work In Progress - đang dịch\)
