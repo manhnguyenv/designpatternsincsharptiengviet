@@ -24,14 +24,14 @@ Trong một số hệ thống phần mềm, bạn có thể sẽ quyết định
 
 Bạn có một chương trình, ví dụ notepad, bạn muốn người dùng chỉ có thể mở 1 cửa sổ **duy nhất** dù họ cố mở nhiều cửa sổ như thế nào đi nữa, thì hãy xài pattern này. Nó giúp bạn ngăn không cho user mở cửa sổ thứ 2.
 
-## Minh họa
+## Minh họa và Giải nghĩa
 
-Sau đây là một số đặc điểm chính khi triển khai:
+Có một số đặc điểm chính khi triển khai code dưới đây:
 
 * Constructor là private trong ví dụ này, do đó bạn sẽ không thể khởi tạo instance  như cách thông thường \(bằng từ khóa new\)
 * Trước khi bạn thử tạo một instance của class, bạn sẽ kiểm tra xem liệu đã có sẵn instance nào chưa. Nếu bạn chưa có instance nào, bạn sẽ tạo mới một instance, còn không thì sử dụng cái đã có sẵn.
 
-## Class Diagram 
+### Class Diagram 
 
 Hình 1.1 Là class diagram minh họa cho mẫu Singleton
 
@@ -56,7 +56,7 @@ Sau đây là những điểm đáng chú của phương pháp này:
 * _public static_ member sẽ đảm bảo có một điểm toàn cục để truy cập, nó xác nhận rằng _the instantiation process_ \(quá trình khởi tạo\) sẽ không chạy cho đến khi bạn gọi thuộc tính _**Instance**_ ****của class \(nói cách khác, nó hỗ trợ khả năng _lazy instantiation_\). Từ khóa _**sealed**_ ngăn việc dẫn xuất của lớp \(do đó các lớp con của nó sẽ không bị lạm dụng - hoặc sử dụng sai\), và từ khóa _**readonly**_ đảm bảo rằng _assignment process_ diễn ra trong lúc khởi tạo tĩnh \(static initialization\).
 * Constructor là _**private**_. Do đó bạn không thể khởi tạo class Singleton bên trong hàm Main\(\). Điều này sẽ giúp bạn trỏ đến một instance có thể đã tồn tại sẵn trong hệ thống.
 
-### Implementation
+### Viết Code
 
 Dưới đây là code ví dụ:
 
@@ -161,11 +161,11 @@ Tùy nhiên, trong hầu hết trường hợp thì bạn không cần quan tâm
 
 ## Phần hỏi đáp
 
-> updating...
+> still translating...
 
 ## Tham khảo thêm
 
-Rất có thể nội dung trong chương này \(quyển sách này\) chưa đủ để bạn hiểu, người dịch liệt kê các nguồn sau để giúp bạn tham khảo thêm:
+Rất có thể nội dung trong chương này - quyển sách này chưa đủ để bạn hiểu về Singleton pattern, tham khảo thêm:
 
 * [http://nthoai.blogspot.com/2008/05/su-dung-singleton-trong-csharp.html](http://nthoai.blogspot.com/2008/05/su-dung-singleton-trong-csharp.html)
 * [https://viblo.asia/p/hoc-singleton-pattern-trong-5-phut-4P856goOKY3](https://viblo.asia/p/hoc-singleton-pattern-trong-5-phut-4P856goOKY3)
