@@ -155,7 +155,7 @@ Number of instances =1
 ***Singleton Pattern Demo***
 ```
 
-Điều này cho bạn thấy nhược điểm của phương pháp này. Cụ thể, bên trong hàm _Main\(\)_, bạn đã thử sử dụng biến static _**MyInt**_ nhưng chương trình của bạn vẫn tiếp tục tạo ra một instance của class Singleton. Nói cách khác, với cách tiếp cận này bạn ít kiểm soát _quá trình khởi tạo_ hơn, là cái mà chạy khi bạn refer đến bất kỳ static member nào của class.
+Điều này cho bạn thấy nhược điểm của phương pháp này. Cụ thể, bên trong hàm _Main\(\)_, bạn đã cố sử dụng biến static _**MyInt**_ nhưng chương trình của bạn vẫn tạo ra một instance của class Singleton. Nói cách khác, với cách tiếp cận này you have less control over the instantiation process, which starts whenever you refer to any static member of the class.
 
 Tùy nhiên, trong hầu hết trường hợp thì bạn không cần quan tâm đến hạn chế này, bạn có thể dễ dãi cho qua vì nó là một _one-time activity_ \(chạy một lần\) và quy trình này sẽ không bị lặp lại, do đó phương pháp này vẫn được sử dụng phổ biến trong các ứng dụng .NET
 
