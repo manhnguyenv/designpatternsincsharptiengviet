@@ -33,7 +33,7 @@
 
 ## Part II: Additional Design Patterns
 
-* [Chapter 24: Simple Factory Pattern](part-ii-additional-design-patterns/untitled.md)
+* [Chapter 24: Simple Factory Pattern](part-ii-additional-design-patterns/chapter-24-simple-factory-pattern.md)
 * [Chapter 25: Null Object Pattern](part-ii-additional-design-patterns/chapter-25-null-object-pattern.md)
 * [Chapter 26: MVC Pattern](part-ii-additional-design-patterns/chapter-26-mvc-pattern.md)
 
