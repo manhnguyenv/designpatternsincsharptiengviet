@@ -1,5 +1,8 @@
+---
+description: Bản dịch Tiếng Việt
+---
+
 # Design Patterns in C\#
 
-Hello world!
+## Giới Thiệu
 
-Demo
