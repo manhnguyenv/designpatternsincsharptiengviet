@@ -6,9 +6,18 @@ description: Chương này sẽ nói về mẫu Singleton
 
 ## GoF Definition
 
-Ensure a class has only one instance, and provide a global point of access to it
+Đảm bảo rằng một class (lớp) chỉ có **duy nhất** một instance (thể hiện), và cung cấp một nơi chung nhất, toàn tục để truy cập vào lớp đó.
 
-## Concept
+## Khái niệm
 
-A particular class should have only one instance. You can use this instance whenever you need it and therefore avoid creating unnecessary objects.
+Một class cụ thể chỉ nên có một instance. Bạn có thể sử dụng instance này bất cứ khi nào bạn cần làm việc với class và do đó tránh việc tạo thêm đối tượng không cần thiết.
 
+
+## Real-Life Example (Ví dụ thực tế)
+> updating...
+
+## Computer World Example
+> updating...
+
+## Minh họa
+> updating...
