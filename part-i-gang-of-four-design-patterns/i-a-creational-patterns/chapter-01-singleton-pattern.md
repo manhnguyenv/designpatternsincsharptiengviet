@@ -1,7 +1,3 @@
----
-description: Chương này sẽ nói về mẫu Singleton
----
-
 # Chapter 1: Singleton Pattern
 
 ## GoF Definition
