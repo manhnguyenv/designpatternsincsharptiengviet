@@ -14,13 +14,15 @@ Một class cụ thể chỉ nên có một instance. Bạn có thể sử dụn
 
 Giả sử bạn là thành viên trong một team thể thao và team bạn đang tham gia một giải đấu. Khi team của bạn đối đầu với team khác, theo luật, người đội trưởng của hai team sẽ tung một đồng xu. Nếu team của bạn không có đội trưởng, trước tiên team bạn cần phải bầu một ai đó làm đội trưởng. Team của bạn phải có một và chỉ một đội trưởng.
 
+**Giải thích:** Nghĩa là trước khi tung đồng xu bạn phải có một ông làm đội trưởng \(Instance\), chưa có thì bầu ra. Ông này sẽ đại diện cho team đi tung đồng xu \(ví dụ 1 action/method nào đó của class\)
+
 ## Ví dụ chuyên ngành
 
 Trong một số hệ thống phần mềm, bạn có thể sẽ quyết định duy trì chỉ một file system \(hệ thống quản lý tập tin\) mà bạn có thể dùng nó để quản lý một cách tập trung các resources \(tài nguyên\).
 
 ## Ví dụ từ người dịch
 
-Bạn có một chương trình, ví dụ notepad, bạn muốn người dùng chỉ có thể mở **duy nhất** 1 cửa sổ dù họ cố mở nhiều cửa sổ như thế nào đi nữa, thì hãy xài pattern này. Nó giúp bạn không cho phép người dùng mở cửa sổ thứ 2.
+Bạn có một chương trình, ví dụ notepad, bạn muốn người dùng chỉ có thể mở 1 cửa sổ **duy nhất** dù họ cố mở nhiều cửa sổ như thế nào đi nữa, thì hãy xài pattern này. Nó giúp bạn ngăn không cho user mở cửa sổ thứ 2.
 
 ## Minh họa
 
@@ -160,4 +162,9 @@ Tùy nhiên, trong hầu hết trường hợp thì bạn không cần quan tâm
 ## Phần hỏi đáp
 
 > updating...
+
+## Tham khảo thêm
+
+* [http://nthoai.blogspot.com/2008/05/su-dung-singleton-trong-csharp.html](http://nthoai.blogspot.com/2008/05/su-dung-singleton-trong-csharp.html)
+* [https://viblo.asia/p/hoc-singleton-pattern-trong-5-phut-4P856goOKY3](https://viblo.asia/p/hoc-singleton-pattern-trong-5-phut-4P856goOKY3)
 
