@@ -6,3 +6,4 @@ description: Bản dịch Tiếng Việt
 
 ## Giới Thiệu
 
+https://minhhungit.gitbook.io/designpatternsincsharptiengviet/
