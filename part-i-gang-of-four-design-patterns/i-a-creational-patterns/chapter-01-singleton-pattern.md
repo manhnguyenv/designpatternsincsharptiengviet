@@ -165,6 +165,8 @@ Tùy nhiên, trong hầu hết trường hợp thì bạn không cần quan tâm
 
 ## Tham khảo thêm
 
+Rất có thể nội dung trong chương này \(quyển sách này\) chưa đủ để bạn hiểu, người dịch liệt kê các nguồn sau để giúp bạn tham khảo thêm:
+
 * [http://nthoai.blogspot.com/2008/05/su-dung-singleton-trong-csharp.html](http://nthoai.blogspot.com/2008/05/su-dung-singleton-trong-csharp.html)
 * [https://viblo.asia/p/hoc-singleton-pattern-trong-5-phut-4P856goOKY3](https://viblo.asia/p/hoc-singleton-pattern-trong-5-phut-4P856goOKY3)
 
