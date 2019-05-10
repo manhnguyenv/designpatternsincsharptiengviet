@@ -1,6 +1,4 @@
-# Design Patterns in C\#
-
-## Design Patterns in C\#
+# Design Patterns in C\# - Tiếng Việt
 
 Gitbook: [https://minhhungit.gitbook.io/designpatternsincsharptiengviet](https://minhhungit.gitbook.io/designpatternsincsharptiengviet)
 

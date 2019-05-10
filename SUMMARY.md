@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Design Patterns in C\#](README.md)
+* [Design Patterns in C\# - Tiếng Việt](README.md)
 
 ## Part I: Gang of Four Design Patterns
 
