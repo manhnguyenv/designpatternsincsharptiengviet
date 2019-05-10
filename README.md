@@ -1,4 +1,4 @@
-## Design Patterns in C\#
+## Design Patterns in C#
 
 Gitbook: https://minhhungit.gitbook.io/designpatternsincsharptiengviet
 
