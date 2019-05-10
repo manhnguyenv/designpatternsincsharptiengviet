@@ -9,7 +9,7 @@
 Một class cụ thể chỉ nên có một instance. Bạn có thể sử dụng instance này bất cứ khi nào bạn cần làm việc với class và do đó tránh việc tạo thêm đối tượng không cần thiết.
 
 
-## Real-Life Example (Ví dụ thực tế)
+## Ví dụ thực tế
 > updating...
 
 ## Computer World Example
